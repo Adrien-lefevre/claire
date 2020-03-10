@@ -11,4 +11,6 @@ package heritage;
  */
 public class Employe {
     
+    //Nathan est un gros zgeg
+    
 }
