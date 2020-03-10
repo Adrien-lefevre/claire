@@ -9,7 +9,7 @@ package heritage;
  *
  * @author alefev02
  */
-public class Heritage {
+public class Salaire {
 
     /**
      * @param args the command line arguments
